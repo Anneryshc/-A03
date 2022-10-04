@@ -41,6 +41,7 @@ In the case that you want to make a change to your project and it comes out on g
 and up to here the tutorial, your project would be complete and uploaded to github
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Glossary
+
 **Branch**:  at its most basic, is a copy of a Git project that you can change as you like and then combine with the original project. When you create a new repository in GitHub, there’s one branch by default—the “main” branch ( previously called “master” ). 
 
 **Clone**:is nothing but a process of downloading an already presented git repository to your local system.  
