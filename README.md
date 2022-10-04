@@ -1,7 +1,10 @@
-First we start with downloading everything necessary before starting to link the accounts.
-##1-create a github account ----https://github.com/join
-##2- download git -- https://git-scm.com/downloads
-##3-download webstorm----https://www.jetbrains.com
+First we start with downloading everything necessary before starting to link the accounts
+
+1-create a github account ----https://github.com/join
+
+2- download git -- https://git-scm.com/downloads
+
+3-download webstorm----https://www.jetbrains.com
 
 now we will start linking/merger these accounts to improve performance
 
@@ -14,6 +17,7 @@ it should be C:\Program Files\Git\bin\git.exe. (you will be notified when it is 
 Now that this is ready, it is time to create our project.
 
 6-Click "Create new project" on the main page of Webstorm.
+
 7- look in what format you are going to make the project in general it is html5 (when creating a new file you will be asked for a name to your project put it in lowercase)
 
 8-start your project. already finished Click "VCS" look for "Import into Version Control" then you give "Create Git Repository" and push "ok"
@@ -29,8 +33,9 @@ In the case that you want to make a change to your project and it comes out on g
 
 
 12- start making your changes in the Webstorm.
-13-VCS->Git->Commit
-Add the Confirm comment and click Confirm
+
+13-VCS->Git->Commit Add the Confirm comment and click Confirm
+
 14-Push the change to Github VCS -> Git -> Push (Ctrl+Shift+K)
 
 and up to here the tutorial, your project would be complete and uploaded to github
