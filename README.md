@@ -1,7 +1,7 @@
 First we start with downloading everything necessary before starting to link the accounts.
-1-create a github account ----https://github.com/join
-2- download git -- https://git-scm.com/downloads
-3-download webstorm----https://www.jetbrains.com
+##1-create a github account ----https://github.com/join
+##2- download git -- https://git-scm.com/downloads
+##3-download webstorm----https://www.jetbrains.com
 
 now we will start linking/merger these accounts to improve performance
 
